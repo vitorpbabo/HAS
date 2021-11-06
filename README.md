@@ -4,7 +4,7 @@
 
 Ser capaz de de controlar pelo menos 4 divisões numa casa (4 motes).
 
-![](https://github.com/SINF-FEUP/HAS20-hais-a36/blob/master/Planta%20T2.png?raw=true)
+![](https://github.com/vitorpbabo/HAS/blob/main/HAS%20Application/home.png)
 
 ### Quarto
 * SENSORES: Temperatura, Humidade e Luminosidade. 
